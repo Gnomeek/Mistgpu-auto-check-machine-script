@@ -1,0 +1,1 @@
+python mist.py "username" "password" "machine_id"
