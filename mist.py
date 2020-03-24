@@ -46,7 +46,7 @@ if __name__=="__main__":
 	password = sys.argv[2]
 	machine_id = sys.argv[3]
 
-	# bot = Bot()
+	bot = Bot()
 	while True:
 		get_page(username, password)
 		result = get_machine(machine_id)
